@@ -12,13 +12,15 @@
 
 ###
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/elmm50/transfer-learning-classi-image-eco" target="_blank">Transfer learning et classification<br>d’images en écologie appliqués aux<br>données peu nombreuses</a>
 </p>
 
 ###
 
-<p align="center">Construction d’un prédicateur<br>discriminant les eaux potables et non<br>potables</p>
+<p align="center">
+    <a href="https://github.com/elmm50/predi-discri-eaux-potable" target="_blank">Construction d’un prédicateur<br>discriminant les eaux potables et non<br>potables</a>
+</p>
 
 ###
 
