@@ -12,7 +12,9 @@
 
 ###
 
-<p align="center">Transfer learning et classification<br>d’images en écologie appliqués aux<br>données peu nombreuses</p>
+<h1 align="left">
+    <a href="https://github.com/elmm50/transfer-learning-classi-image-eco" target="_blank">Transfer learning et classification<br>d’images en écologie appliqués aux<br>données peu nombreuses</a>
+</h1>
 
 ###
 
