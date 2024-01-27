@@ -24,6 +24,14 @@
 
 ###
 
+<h3 align="left">Projets professionnels :</h3>
+
+###
+
+<p align="center">Test Technique Yanport Data Engineer/ Data Scientist</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
